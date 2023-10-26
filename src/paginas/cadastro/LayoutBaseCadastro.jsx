@@ -1,4 +1,4 @@
-import { Col, Row } from "react-grid-system"
+import { Col, Container, Row } from "react-grid-system"
 import { Outlet } from "react-router-dom"
 import { Card } from "../../componentes/Card/Card"
 import { CadastroUsuarioProvider } from "../../contexto/CadastroUsuario"
